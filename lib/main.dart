@@ -26,5 +26,3 @@ void main() {
     //home: const Home(),
   ));
 }
-
-//hello nothing
