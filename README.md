@@ -1,6 +1,6 @@
-# rock_paper_sciss
+# Parity GAME
 
-Getx, Git
+USED GetX package
 
 ## Getting Started
 
